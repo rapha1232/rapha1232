@@ -31,7 +31,7 @@
 </div>
 
 ## 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=next,tailwind,nest,convex,mysql)
+![My Skills](https://skillicons.dev/icons?i=next,tailwind,nest,mysql,firebase,postgres)
 
 ## 📈 My GitHub Stats
 
