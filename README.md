@@ -11,7 +11,7 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs" alt="Programming Languages" />
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Web Development" />
-  <img src="https://skillicons.dev/icons?i=sql,mysql,postgres" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
 </div>
 
 ## 🔧 Tools & Technologies
@@ -31,7 +31,7 @@
 </div>
 
 ## 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=next,tailwind,nest,convex,sql)
+![My Skills](https://skillicons.dev/icons?i=next,tailwind,nest,convex,mysql)
 
 ## 📈 My GitHub Stats
 
