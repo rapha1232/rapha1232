@@ -11,29 +11,27 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs" alt="Programming Languages" />
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Web Development" />
-  <img src="https://skillicons.dev/icons?i=swift,kotlin" alt="Mobile Development" />
   <img src="https://skillicons.dev/icons?i=sql,mysql,postgres" alt="Databases" />
 </div>
 
 ## 🔧 Tools & Technologies
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio" alt="IDEs" />
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell" alt="OS & Shell" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="IDEs" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp" alt="DevOps" />
 </div>
 
 ## 🚀 Frameworks & Libraries
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue" alt="Frontend" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" alt="Backend" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ML/DL" />
+  <img src="https://skillicons.dev/icons?i=react,next" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="ML/DL" />
 </div>
 
 ## 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mysql,git,github,vscode,linux)
+![My Skills](https://skillicons.dev/icons?i=next,tailwind,nest,convex,sql)
 
 ## 📈 My GitHub Stats
 
