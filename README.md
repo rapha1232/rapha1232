@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Raphael! 👋
 
-<!--
-**rapha1232/rapha1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Computer Science Graduate from the University of Balamand.  
+💻 Passionate about web development and software development.  
+🌱 Currently learning Next.js and Machine Learning.  
+🔭 Looking to collaborate on interesting and innovative ideas focusing on web dev and AI.  
+📫 How to reach me: raphasemaan@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql,postgres" alt="Databases" />
+</div>
+
+## 🔧 Tools & Technologies
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio" alt="IDEs" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell" alt="OS & Shell" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" alt="DevOps" />
+</div>
+
+## 🚀 Frameworks & Libraries
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ML/DL" />
+</div>
+
+## 🛠️ Tech Stack
+![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mysql,git,github,vscode,linux)
+
+## 📈 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rapha1232&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rapha1232&layout=compact&theme=radical)](https://github.com/rapha1232)
