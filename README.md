@@ -9,8 +9,8 @@
 ## 🛠️ Languages
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs" alt="Programming Languages" />
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" alt="Web Development" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
 </div>
 
@@ -25,7 +25,7 @@
 ## 🚀 Frameworks & Libraries
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=react,next" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=next,react" alt="Frontend" />
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="ML/DL" />
 </div>
